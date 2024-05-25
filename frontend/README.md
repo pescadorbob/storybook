@@ -1,3 +1,14 @@
+# Dev Guide
+
+## Pre-requisites
+* Node v20.13.1
+* npm 10.5.2
+
+## Get Started
+* execute `npm install` to pull down all dependencies
+* execute `npm start' to start the react app
+* execute `npm storybook` to run the storybook app and design your ui components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
